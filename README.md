@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @AyaElbek
-- 👀 I’m interested in UX Research, Machine learning and 
-- 🌱 I’m currently learning Python and R
-- 💞️ I’m looking to collaborate on ML projects
-- 📫 How to reach me linkedin.com/in/aidai-elbekova-298a8337
+👋 Hi, I’m Aya Elbek!
 
-<!---
-AyaElbek/AyaElbek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 With a deep passion for Product Management and UX Research, I bring a user-centric approach to every project. My interests are firmly rooted in the cutting-edge fields of Generative AI, Large Language Models (LLMs), and Machine Learning.
+
+🌱 Currently, I am enhancing my expertise by learning Python and R, empowering me to leverage advanced tools and methodologies in my work.
+
+💞️ I am eager to collaborate on Machine Learning projects and seek innovative solutions within UX and Product Management. Let's create something remarkable together!
+
+📫 Connect with me on LinkedIn -> https://www.linkedin.com/in/aidai-elbekova-298a8337/
